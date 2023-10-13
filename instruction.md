@@ -22,3 +22,7 @@
 ### Нумерованный список
 1. Лист
 2. Лист
+
+## Web links
+Text [example of a link](http.example.com "Всплывающая подсказка")
+
