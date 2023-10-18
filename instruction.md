@@ -27,3 +27,6 @@
 Text [example of a link](http.example.com "Всплывающая подсказка")
 
 # Добавим как добавлять картинки в MarkDown
+Это гонщик
+![Гонщик](carlos.jpg)
+
