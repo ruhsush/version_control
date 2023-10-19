@@ -34,3 +34,8 @@ git checkout
 ```sh
 git checkout master
 ```
+
+Просмотр ветки, на которой мы находимся
+```sh
+git branch
+```
