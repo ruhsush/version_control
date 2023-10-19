@@ -25,6 +25,11 @@ git log
 git log --oneline
 ```
 
+Просмотр введеных изменений и слияний веток
+```sh
+git log --graph
+```
+
 Переключение к коммитам
 ```sh
 git checkout <branch_name>
