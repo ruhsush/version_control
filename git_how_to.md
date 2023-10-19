@@ -36,7 +36,7 @@ git checkout <branch_name>
 ```
 Перемещение по веткам
 ```sh
-git checkout <имя веткиЮ
+git checkout <имя ветки>
 ```
 
 Возврат к конечному коммиту
@@ -58,3 +58,8 @@ git branch <имя_ветки>
 ```sh
 git branch -d <имя_ветки>
 ```
+
+ Слияние веток
+ ```sh
+ git merge <имя_ветки>
+ ```
