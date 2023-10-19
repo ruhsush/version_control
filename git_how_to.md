@@ -35,7 +35,7 @@ git checkout
 git checkout master
 ```
 
-Просмотр ветки, на которой мы находимся
+Отображение всех веток
 ```sh
 git branch
 ```
