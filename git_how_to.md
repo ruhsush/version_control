@@ -27,7 +27,7 @@ git log --oneline
 
 Переключение к коммитам
 ```sh
-git checkout
+git checkout <branch_name>
 ```
 
 Возврат к конечному коммиту
