@@ -29,13 +29,17 @@ git log --oneline
 ```sh
 git checkout <branch_name>
 ```
+Перемещение по веткам
+```sh
+git checkout <имя веткиЮ
+```
 
 Возврат к конечному коммиту
 ```sh
 git checkout master
 ```
 
-Просмотр ветки, на которой мы находимся
+Отображение всех веток
 ```sh
 git branch
 ```
