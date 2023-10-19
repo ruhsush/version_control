@@ -29,6 +29,10 @@ git log --oneline
 ```sh
 git checkout
 ```
+Перемещение по веткам
+```sh
+git checkout <имя веткиЮ
+```
 
 Возврат к конечному коммиту
 ```sh
